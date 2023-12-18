@@ -1,0 +1,70 @@
+/*
+  Localizable.strings
+  project
+
+  Created by Gergő Jeles on 11.12.23.
+*/
+
+//Menu
+
+"voiceMemos" = "Hangjegyzetek";
+"addReminder" = "Emlékeztető hozzáadása";
+"about" = "Rólunk";
+
+//Menu END
+
+//Splash Screen
+
+"Project" = "Projekt";
+"Project App" = "Projekt Alkalmazás";
+
+//Splash Screen END
+
+//Voice Memos
+
+"Error" = "Hiba";
+"Ok" = "Rendben";
+"PermissionGranted" = "Engedély megadva";
+"PermissionDenied" = "Engedély megtagadva: %@";
+"RecordingSaved" = "Felvétel mentve";
+"NewVoiceNoteReady" = "Az új hangjegyzet kész a lejátszáshoz.";
+"RecordingError" = "Felvételi hiba: %@";
+"AudioSessionError" = "Audio munkamenet hiba: %@";
+"CoreDataSaveError" = "Hiba a CoreData mentésénél: %@";
+"CoreDataFetchError" = "Hiba a CoreData lekérdezésénél: %@";
+"CoreDataDeleteError" = "Hiba a CoreData törlésénél: %@";
+"AudioPlayError" = "Lejátszási hiba: %@";
+"VoiceNoteText" = "Hangjegyzet %d";
+"StopRecording" = "Felvétel leállítása";
+"StartRecording" = "Felvétel indítása";
+
+//Voice Memos END
+
+//Add Reminder
+
+"AddReminder" = "Emlékeztető hozzáadása";
+"ReminderDetails" = "Emlékeztető részletei";
+"Title" = "Cím";
+"Description" = "Leírás";
+"DateAndTime" = "Dátum és idő";
+"ReminderList" = "Emlékeztetők listája";
+"ReminderAdded" = "Emlékeztető hozzáadva";
+"ReminderAddedMessage" = "Az emlékeztető sikeresen hozzáadva!";
+"addReminder" = "Emlékeztető hozzáadása";
+
+//Add Reminder END
+
+//About
+
+"Application" = "Alkalmazás";
+"Version" = "Verzió";
+"Student" = "Diák";
+"Name" = "Név";
+"Student ID" = "Diákigazolvány";
+"E-mail" = "E-mail";
+"Lecture" = "Előadás";
+"Lecturer Name" = "Előadó neve";
+"Lecture Name" = "Előadás neve";
+"About" = "Rólunk";
+
+//About END

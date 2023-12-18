@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  project
+
+  Created by Gergő Jeles on 11.12.23.
+  
+*/
+
+//Menu
+
+"voiceMemos" = "Voice Memos";
+"addReminder" = "Add Reminder";
+"about" = "About";
+
+//Menu END
+
+
+//Splash Screen
+
+"Project" = "Project";
+"Project App" = "Project App";
+
+//Splash Screen END
+
+
+//Voice Memos
+
+"Error" = "Error";
+"Ok" = "OK";
+"PermissionGranted" = "Permission granted";
+"PermissionDenied" = "Permission denied: %@";
+"RecordingSaved" = "Recording Saved";
+"NewVoiceNoteReady" = "Your new voice note is ready to play.";
+"RecordingError" = "Recording Error: %@";
+"AudioSessionError" = "Audio Session Error: %@";
+"CoreDataSaveError" = "Error saving to CoreData: %@";
+"CoreDataFetchError" = "Error fetching from CoreData: %@";
+"CoreDataDeleteError" = "Error deleting from CoreData: %@";
+"AudioPlayError" = "Audio Play Error: %@";
+"VoiceNoteText" = "Voice Note %d";
+"StopRecording" = "Stop Recording";
+"StartRecording" = "Start Recording";
+
+//Voice Memos END
+
+
+//Add Reminder
+
+"AddReminder" = "Add Reminder";
+"ReminderDetails" = "Reminder Details";
+"Title" = "Title";
+"Description" = "Description";
+"DateAndTime" = "Date and Time";
+"ReminderList" = "Reminder List";
+"ReminderAdded" = "Reminder Added";
+"ReminderAddedMessage" = "Your reminder has been added successfully!";
+"addReminder" = "Add Reminder";
+
+//Add Reminder END
+
+
+//About
+
+"Application" = "Application";
+"Version" = "Version";
+"Student" = "Student";
+"Name" = "Name";
+"Student ID" = "Student ID";
+"E-mail" = "E-mail";
+"Lecture" = "Lecture";
+"Lecturer Name" = "Lecturer Name";
+"Lecture Name" = "Lecture Name";
+"About" = "About";
+
+//About END
